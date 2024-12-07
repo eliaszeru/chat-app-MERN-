@@ -18,6 +18,12 @@ Highlights:
 - ⭐ At the end Deployment like a pro for FREE!
 - ⏳ And much more!
 
+
+## Demo
+
+You can check the live demo of the project [here](https://chat-app-mern-1-85en.onrender.com/login)
+
+
 ### Setup .env file
 
 ```js
@@ -37,6 +43,11 @@ NODE_ENV=development
 ```shell
 npm run build
 ```
+
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/9b1ffed8-6b6e-4413-8675-91e62977995f)
+
 
 ### Start the app
 
