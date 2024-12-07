@@ -21,7 +21,7 @@ Highlights:
 
 ## Demo
 
-You can check the live demo of the project [here](https://chat-app-mern-1-85en.onrender.com/login)
+You can check the live demo of the project [here](https://chat-app-mern-1-85en.onrender.com)
 
 
 ### Setup .env file
