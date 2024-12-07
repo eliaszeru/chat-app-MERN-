@@ -44,13 +44,14 @@ NODE_ENV=development
 npm run build
 ```
 
-## Screenshots
-
-![image](https://github.com/user-attachments/assets/9b1ffed8-6b6e-4413-8675-91e62977995f)
-
 
 ### Start the app
 
 ```shell
 npm start
 ```
+
+
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/9b1ffed8-6b6e-4413-8675-91e62977995f)
